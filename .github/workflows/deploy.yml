@@ -2,11 +2,11 @@ name: Deploy React App
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   pull_request:
     types:
       - closed
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 jobs:
