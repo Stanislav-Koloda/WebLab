@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Stanislav-Koloda/WebLab.git",
+  "homepage": "https://stanislav-koloda.github.io/WebLab/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
